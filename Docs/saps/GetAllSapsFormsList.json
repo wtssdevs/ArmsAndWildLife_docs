@@ -1,322 +1,328 @@
 {
-   "sapsFormList":[
-      {
-         "Code":"SAPS 349",
-         "Description":"Of Firearms in Possession of Government Departments Other Bodies Which Are Exempt from Licensing",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/1.%20SAPS%20349/e349.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/1.%20SAPS%20349/ei349.pdf"
-      },      {
-         "Code":"SAPS 522",
-         "Description":"Cancellation of an Application for a Licence, Permit, Certificate or Authorization",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/2.%20SAPS%20522/e522.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/2.%20SAPS%20522/ei522.pdf"
-      },      {
-         "Code":"SAPS 522(a)",
-         "Description":"Surrendering of Firearm Item(s)",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/3.%20SAPS%20522(a)/e522a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/3.%20SAPS%20522(a)/ei522a.pdf"
-      },      {
-         "Code":"SAPS 522(b)",
-         "Description":"Forfeiture of Firearm Item(s)",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/4.%20SAPS%20522(b)/e522b.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/4.%20SAPS%20522(b)/ei522b.pdf"
-      },      {
-         "Code":"SAPS 523",
-         "Description":"Acknowledgement of Receipt of Firearm Documentation",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/5.%20SAPS%20523/e523.pdf",
-         "iUrl":null
-      },      {
-         "Code":"SAPS 523(a)",
-         "Description":"Remittance Advice for Firearm Applications",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/6.%20SAPS%20523(a)/e523a.pdf",
-         "iUrl":null
-      },      {
-         "Code":"SAPS 531",
-         "Description":"Request to Alter Firearm by a Gunsmith",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/7.%20SAPS%20531/e531.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/7.%20SAPS%20531/ei531.pdf"
-      },      {
-         "Code":"SAPS 532",
-         "Description":"Infringement Notice",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/8.%20SAPS%20532/e532.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/8.%20SAPS%20532/ei532.pdf"
-      },
-      {
-         "Code":"SAPS 532(a)",
-         "Description":"Response to Infringement Notice",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/9.%20SAPS%20532(a)/e532a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/9.%20SAPS%20532(a)/ei532a.pdf"
-      },
-      {
-         "Code":"SAPS 533",
-         "Description":"Request to Cancel a Firearm Licence, Permit, Certificate or Authorization",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/10.%20SAPS%20533/e533.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/10.%20SAPS%20533/ei533.pdf"
-      },
-      {
-         "Code":"SAPS 533(a)",
-         "Description":"Request to Suspend a Firearm Licence, Permit, Certificate or Authorization",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/11.%20SAPS%20533(a)/e533a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/11.%20SAPS%20533(a)/ei533a.pdf"
-      },
-      {
-         "Code":"SAPS 534",
-         "Description":"Transfer of Firearm Ownership",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/12.%20SAPS%20534/e534.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/12.%20SAPS%20534/ei534.pdf"
-      },
-      {
-         "Code":"SAPS 535",
-         "Description":"Forwarding Schedule",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/13.%20SAPS%20535/e535.pdf",
-         "iUrl":null
-      },
-      {
-         "Code":"SAPS 538",
-         "Description":"Certificate in Terms of Regulation 86(8) of the Firearms Control Regulations, 2004",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/14.%20SAPS%20538/e538.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/14.%20SAPS%20538/ei538.pdf"
-      },
-      {
-         "Code":"SAPS 539",
-         "Description":"Permission to Store a Firearm in Terms of Regulation 86(4) of the Firearms Control Regulations, 2004",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/15.%20SAPS%20539/e539.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/15.%20SAPS%20539/ei539.pdf"
-      },
-      {
-         "Code":"SAPS 271",
-         "Description":"Application for Licence to Possess a Firearm",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/16.%20SAPS%20271/e271.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/16.%20SAPS%20271/ei271.pdf"
-      },
-      {
-         "Code":"SAPS 349(a)",
-         "Description":"Application for Acquisition of Firearms by Official Institutions",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/17.%20SAPS%20349(a)/e349a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/17.%20SAPS%20349(a)/ei349a.pdf"
-      },
-      {
-         "Code":"SAPS 517",
-         "Description":"Application for a Competency Certificate",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/18.%20SAPS%20517/e517.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/18.%20SAPS%20517/ei517.pdf"
-      },
-      {
-         "Code":"SAPS 517(a)",
-         "Description":"Application for a Further Competency Certificate",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/19.%20SAPS%20517(a)/e517a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/19.%20SAPS%20517(a)/ei517a.pdf"
-      },
-      {
-         "Code":"SAPS 517(b)",
-         "Description":"Application for a Duplicate Licence, Permit, Certificates or Authorization for Lost, Stolen and Defaced Licences",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/20.%20SAPS%20517(b)/e517b.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/20.%20SAPS%20517(b)/ei517b.pdf"
-      },
-      {
-         "Code":"SAPS 517(c)",
-         "Description":"Application for Licence Issued to Particular Categories of Persons -Dealers, Manufacturers or Gunsmiths",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/21.%20SAPS%20517(c)/e517c.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/21.%20SAPS%20517(c)/ei517c.pdf"
-      },
-      {
-         "Code":"SAPS 517(d)",
-         "Description":"Application to Manufacture a New Firearm or Ammunition Type",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/22.%20SAPS%20517(d)/e517d.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/22.%20SAPS%20517(d)/ei517d.pdf"
-      },
-      {
-         "Code":"SAPS 517(e)",
-         "Description":"Application for Renewal of Licence(s) in Terms of the Previous Act",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/23.%20SAPS%20517(e)/e517e.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/23.%20SAPS%20517(e)/ei517e.pdf"
-      },
-      {
-         "Code":"SAPS 517(f)",
-         "Description":"Application to Declare Premises A Firearm Free Zone",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/24.%20SAPS%20517(f)/e517f.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/24.%20SAPS%20517(f)/ei517f.pdf"
-      },
-      {
-         "Code":"SAPS 517(g)",
-         "Description":"Application for the renewal of a competency certificate",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/25.%20SAPS%20517(g)/e517g.pdf",
-         "iUrl":null
-      },
-      {
-         "Code":"SAPS 518",
-         "Description":"Application for a Temporary Authorization to Possess a Firearm",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/26.%20SAPS%20518/e518.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/26.%20SAPS%20518/ei518.pdf"
-      },
-      {
-         "Code":"SAPS 518(a)",
-         "Description":"Application for the Renewal of a Firearm Licence, Permit, Certificate or Authorization",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/27.%20SAPS%20518(a)/e518a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/27.%20SAPS%20518(a)/ei518a.pdf"
-         //"AnnexureA":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/27.%20SAPS%20518(a)/Annexure-A-381a.pdf"
-      },
-      {
-         "Code":"SAPS 518(b)",
-         "Description":"Application for a Temporary Authorization to Trade in Firearms and Ammunition, to Conduct Business as a Gunsmith or to Display Firearms and Ammunition on Premises Other than Those Specified in the Dealers’, Manufacturers’ or Gunsmiths’ Licence",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/28.%20SAPS%20518(b)/e518b.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/28.%20SAPS%20518(b)/ei518b.pdf"
-      },
-      {
-         "Code":"SAPS 519",
-         "Description":"Application for Accreditation as an Association",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/29.%20SAPS%20519/e519.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/29.%20SAPS%20519/ei519.pdf"
-      },
-      {
-         "Code":"SAPS 519(a)",
-         "Description":"Application for Accreditation for Business Purposes",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/30.%20SAPS%20519(a)/e519a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/30.%20SAPS%20519(a)/ei519a.pdf"
-      },
-      {
-         "Code":"SAPS 519(b)",
-         "Description":"Application for Accreditation as an Official Institution",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/31.%20SAPS%20519(b)/e519b.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/31.%20SAPS%20519(b)/ei519b.pdf"
-      },
-      {
-         "Code":"SAPS 520",
-         "Description":"Application for Multiple Import Or Export Permit/Permanent Import Or Export Permit/temporary Import Or Export Permit/in-transit Permit for Personal Use (Individuals and Companies)",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/32.%20SAPS%20520/e520.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/32.%20SAPS%20520/ei520.pdf"
-      },
-      {
-         "Code":"SAPS 520(a)",
-         "Description":"Application for Multiple Import or Export Permit/ Permanent Import or Export Permit/Temporary Import or Export Permit/in-transit Permit for Dealers, Manufacturers and Gunsmiths",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/33.%20SAPS%20520(a)/e520a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/33.%20SAPS%20520(a)/ei520a.pdf"
-      },
-      {
-         "Code":"SAPS 520(b)",
-         "Description":"Application for Permit to Transport Firearms and Ammunition",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/34.%20SAPS%20520(b)/e520b.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/34.%20SAPS%20520(b)/ei520b.pdf"
-      },
-      {
-         "Code":"SAPS 520(c)",
-         "Description":"Application for a Permit to Collect Ammunition",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/35.%20SAPS%20520(c)/e520c.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/35.%20SAPS%20520(c)/ei520c.pdf"
-      },
-      {
-         "Code":"SAPS 520(d)",
-         "Description":"Application for Compensation",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/36.%20SAPS%20520(d)/e520d.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/36.%20SAPS%20520(d)/ei520d.pdf"
-      },
-      {
-         "Code":"SAPS 536",
-         "Description":"Application for Authorization to Possess More than 2 400 Primers",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/37.%20SAPS%20536/e536.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/37.%20SAPS%20536/ei536.pdf"
-      },
-      {
-         "Code":"SAPS 540",
-         "Description":"Application for Authorization to Possess more than 200 rounds of ammunition",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/38.%20SAPS%20540/e540.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/38.%20SAPS%20540/ei540.pdf"
-      },
-      {
-         "Code":"SAPS 521",
-         "Description":"Notification of Lost or Stolen Licences, Permits, Certificates and Authorizations",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/39.%20SAPS%20521/e521.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/39.%20SAPS%20521/ei521.pdf"
-      },
-      {
-         "Code":"SAPS 521(a)",
-         "Description":"Notification of Ceasing to Carry on Business",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/40.%20SAPS%20521(a)/e521a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/40.%20SAPS%20521(a)/ei521a.pdf"
-      },
-      {
-         "Code":"SAPS 521(b)",
-         "Description":"Notification of Change of Address",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/41.%20SAPS%20521(b)/e521b.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/41.%20SAPS%20521(b)/ei521b.pdf"
-      },
-      {
-         "Code":"SAPS 521(c)",
-         "Description":"Notification of Change in Circumstances",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/42.%20SAPS%20521(c)/e521c.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/42.%20SAPS%20521(c)/ei521c.pdf"
-      },
-      {
-         "Code":"SAPS 521(d)",
-         "Description":"Notification of Change of Commercial Agent Premises",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/43.%20SAPS%20521(d)/e521d.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/43.%20SAPS%20521(d)/ei521d.pdf"
-      },
-      {
-         "Code":"SAPS 521(e)",
-         "Description":"Notification on Assignment of New Responsible Person for Juristic Person",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/44.%20SAPS%20521(e)/e521e.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/44.%20SAPS%20521(e)/ei521e.pdf"
-      },
-      {
-         "Code":"SAPS 521(f)",
-         "Description":"Notification of Lost/Stolen/Found Firearms",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/45.%20SAPS%20521(f)/e521f.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/45.%20SAPS%20521(f)/ei521f.pdf"
-      },
-      {
-         "Code":"SAPS 521(g)",
-         "Description":"Notification of Incorrect Information",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/46.%20SAPS%20521(g)/e521g.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/46.%20SAPS%20521(g)/ei521g.pdf"
-      },
-      {
-         "Code":"SAPS 521(h)",
-         "Description":"Notification of Requirement to Deactivate a Firearm",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/47.%20SAPS%20521(h)/e521h.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/47.%20SAPS%20521(h)/ei521h.pdf"
-      },
-      {
-         "Code":"SAPS 530",
-         "Description":"Notice of Appeal",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/48.%20SAPS%20530/e530.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/48.%20SAPS%20530/ei530.pdf"
-      },
-      {
-         "Code":"SAPS 350(a)",
-         "Description":"Dealer’s Return: Stock Received",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/49.%20SAPS%20350(a)/e350a.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/49.%20SAPS%20350(a)/ei350a.pdf"
-      },
-      {
-         "Code":"SAPS 350(b)",
-         "Description":"Dealer’s Return: Stock Supplied",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/50.%20SAPS%20350(b)/e350b.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/50.%20SAPS%20350(b)/ei350b.pdf"
-      },
-      {
-         "Code":"SAPS 350(c)",
-         "Description":"Manufacturer’s Return: Stock Manufactured",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/51.%20SAPS%20350(c)/e350c.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/51.%20SAPS%20350(c)/ei350c.pdf"
-      },
-      {
-         "Code":"SAPS 350(d)",
-         "Description":"Manufacturer’s Return: Stock Supplied",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/52.%20SAPS%20350(d)/e350d.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/52.%20SAPS%20350(d)/ei350d.pdf"
-      },
-      {
-         "Code":"SAPS 350(e)",
-         "Description":"Gunsmith’s Return: Stock Received",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/53.%20SAPS%20350(e)/e350e.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/53.%20SAPS%20350(e)/ei350e.pdf"
-      },
-      {
-         "Code":"SAPS 350(f)",
-         "Description":"Gunsmith’s Return: Stock Supplied",
-         "Url":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/54.%20SAPS%20350(f)/e350f.pdf",
-         "iUrl":"https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/54.%20SAPS%20350(f)/ei350f.pdf"
-      }
-   ]
+	"sapsFormList": [
+		{
+			"Code": "SAPS 349",
+			"Description": "Of Firearms in Possession of Government Departments Other Bodies Which Are Exempt from Licensing",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/1.%20SAPS%20349/e349.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/1.%20SAPS%20349/ei349.pdf"
+		},
+		{
+			"Code": "SAPS 522",
+			"Description": "Cancellation of an Application for a Licence, Permit, Certificate or Authorization",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/2.%20SAPS%20522/e522.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/2.%20SAPS%20522/ei522.pdf"
+		},
+		{
+			"Code": "SAPS 522(a)",
+			"Description": "Surrendering of Firearm Item(s)",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/3.%20SAPS%20522(a)/e522a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/3.%20SAPS%20522(a)/ei522a.pdf"
+		},
+		{
+			"Code": "SAPS 522(b)",
+			"Description": "Forfeiture of Firearm Item(s)",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/4.%20SAPS%20522(b)/e522b.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/4.%20SAPS%20522(b)/ei522b.pdf"
+		},
+		{
+			"Code": "SAPS 523",
+			"Description": "Acknowledgement of Receipt of Firearm Documentation",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/5.%20SAPS%20523/e523.pdf",
+			"iUrl": null
+		},
+		{
+			"Code": "SAPS 523(a)",
+			"Description": "Remittance Advice for Firearm Applications",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/6.%20SAPS%20523(a)/e523a.pdf",
+			"iUrl": null
+		},
+		{
+			"Code": "SAPS 531",
+			"Description": "Request to Alter Firearm by a Gunsmith",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/7.%20SAPS%20531/e531.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/7.%20SAPS%20531/ei531.pdf"
+		},
+		{
+			"Code": "SAPS 532",
+			"Description": "Infringement Notice",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/8.%20SAPS%20532/e532.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/8.%20SAPS%20532/ei532.pdf"
+		},
+		{
+			"Code": "SAPS 532(a)",
+			"Description": "Response to Infringement Notice",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/9.%20SAPS%20532(a)/e532a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/9.%20SAPS%20532(a)/ei532a.pdf"
+		},
+		{
+			"Code": "SAPS 533",
+			"Description": "Request to Cancel a Firearm Licence, Permit, Certificate or Authorization",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/10.%20SAPS%20533/e533.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/10.%20SAPS%20533/ei533.pdf"
+		},
+		{
+			"Code": "SAPS 533(a)",
+			"Description": "Request to Suspend a Firearm Licence, Permit, Certificate or Authorization",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/11.%20SAPS%20533(a)/e533a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/11.%20SAPS%20533(a)/ei533a.pdf"
+		},
+		{
+			"Code": "SAPS 534",
+			"Description": "Transfer of Firearm Ownership",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/12.%20SAPS%20534/e534.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/12.%20SAPS%20534/ei534.pdf"
+		},
+		{
+			"Code": "SAPS 535",
+			"Description": "Forwarding Schedule",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/13.%20SAPS%20535/e535.pdf",
+			"iUrl": null
+		},
+		{
+			"Code": "SAPS 538",
+			"Description": "Certificate in Terms of Regulation 86(8) of the Firearms Control Regulations, 2004",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/14.%20SAPS%20538/e538.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/14.%20SAPS%20538/ei538.pdf"
+		},
+		{
+			"Code": "SAPS 539",
+			"Description": "Permission to Store a Firearm in Terms of Regulation 86(4) of the Firearms Control Regulations, 2004",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/15.%20SAPS%20539/e539.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/15.%20SAPS%20539/ei539.pdf"
+		},
+		{
+			"Code": "SAPS 271",
+			"Description": "Application for Licence to Possess a Firearm",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/16.%20SAPS%20271/e271.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/16.%20SAPS%20271/ei271.pdf"
+		},
+		{
+			"Code": "SAPS 349(a)",
+			"Description": "Application for Acquisition of Firearms by Official Institutions",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/17.%20SAPS%20349(a)/e349a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/17.%20SAPS%20349(a)/ei349a.pdf"
+		},
+		{
+			"Code": "SAPS 517",
+			"Description": "Application for a Competency Certificate",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/18.%20SAPS%20517/e517.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/18.%20SAPS%20517/ei517.pdf"
+		},
+		{
+			"Code": "SAPS 517(a)",
+			"Description": "Application for a Further Competency Certificate",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/19.%20SAPS%20517(a)/e517a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/19.%20SAPS%20517(a)/ei517a.pdf"
+		},
+		{
+			"Code": "SAPS 517(b)",
+			"Description": "Application for a Duplicate Licence, Permit, Certificates or Authorization for Lost, Stolen and Defaced Licences",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/20.%20SAPS%20517(b)/e517b.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/20.%20SAPS%20517(b)/ei517b.pdf"
+		},
+		{
+			"Code": "SAPS 517(c)",
+			"Description": "Application for Licence Issued to Particular Categories of Persons -Dealers, Manufacturers or Gunsmiths",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/21.%20SAPS%20517(c)/e517c.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/21.%20SAPS%20517(c)/ei517c.pdf"
+		},
+		{
+			"Code": "SAPS 517(d)",
+			"Description": "Application to Manufacture a New Firearm or Ammunition Type",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/22.%20SAPS%20517(d)/e517d.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/22.%20SAPS%20517(d)/ei517d.pdf"
+		},
+		{
+			"Code": "SAPS 517(e)",
+			"Description": "Application for Renewal of Licence(s) in Terms of the Previous Act",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/23.%20SAPS%20517(e)/e517e.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/23.%20SAPS%20517(e)/ei517e.pdf"
+		},
+		{
+			"Code": "SAPS 517(f)",
+			"Description": "Application to Declare Premises A Firearm Free Zone",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/24.%20SAPS%20517(f)/e517f.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/24.%20SAPS%20517(f)/ei517f.pdf"
+		},
+		{
+			"Code": "SAPS 517(g)",
+			"Description": "Application for the renewal of a competency certificate",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/25.%20SAPS%20517(g)/e517g.pdf",
+			"iUrl": null
+		},
+		{
+			"Code": "SAPS 518",
+			"Description": "Application for a Temporary Authorization to Possess a Firearm",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/26.%20SAPS%20518/e518.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/26.%20SAPS%20518/ei518.pdf"
+		},
+		{
+			"Code": "SAPS 518(a)",
+			"Description": "Application for the Renewal of a Firearm Licence, Permit, Certificate or Authorization",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/27.%20SAPS%20518(a)/e518a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/27.%20SAPS%20518(a)/ei518a.pdf"
+		},
+		{
+			"Code": "SAPS 518(b)",
+			"Description": "Application for a Temporary Authorization to Trade in Firearms and Ammunition, to Conduct Business as a Gunsmith or to Display Firearms and Ammunition on Premises Other than Those Specified in the Dealers’, Manufacturers’ or Gunsmiths’ Licence",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/28.%20SAPS%20518(b)/e518b.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/28.%20SAPS%20518(b)/ei518b.pdf"
+		},
+		{
+			"Code": "SAPS 519",
+			"Description": "Application for Accreditation as an Association",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/29.%20SAPS%20519/e519.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/29.%20SAPS%20519/ei519.pdf"
+		},
+		{
+			"Code": "SAPS 519(a)",
+			"Description": "Application for Accreditation for Business Purposes",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/30.%20SAPS%20519(a)/e519a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/30.%20SAPS%20519(a)/ei519a.pdf"
+		},
+		{
+			"Code": "SAPS 519(b)",
+			"Description": "Application for Accreditation as an Official Institution",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/31.%20SAPS%20519(b)/e519b.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/31.%20SAPS%20519(b)/ei519b.pdf"
+		},
+		{
+			"Code": "SAPS 520",
+			"Description": "Application for Multiple Import Or Export Permit/Permanent Import Or Export Permit/temporary Import Or Export Permit/in-transit Permit for Personal Use (Individuals and Companies)",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/32.%20SAPS%20520/e520.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/32.%20SAPS%20520/ei520.pdf"
+		},
+		{
+			"Code": "SAPS 520(a)",
+			"Description": "Application for Multiple Import or Export Permit/ Permanent Import or Export Permit/Temporary Import or Export Permit/in-transit Permit for Dealers, Manufacturers and Gunsmiths",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/33.%20SAPS%20520(a)/e520a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/33.%20SAPS%20520(a)/ei520a.pdf"
+		},
+		{
+			"Code": "SAPS 520(b)",
+			"Description": "Application for Permit to Transport Firearms and Ammunition",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/34.%20SAPS%20520(b)/e520b.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/34.%20SAPS%20520(b)/ei520b.pdf"
+		},
+		{
+			"Code": "SAPS 520(c)",
+			"Description": "Application for a Permit to Collect Ammunition",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/35.%20SAPS%20520(c)/e520c.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/35.%20SAPS%20520(c)/ei520c.pdf"
+		},
+		{
+			"Code": "SAPS 520(d)",
+			"Description": "Application for Compensation",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/36.%20SAPS%20520(d)/e520d.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/36.%20SAPS%20520(d)/ei520d.pdf"
+		},
+		{
+			"Code": "SAPS 536",
+			"Description": "Application for Authorization to Possess More than 2 400 Primers",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/37.%20SAPS%20536/e536.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/37.%20SAPS%20536/ei536.pdf"
+		},
+		{
+			"Code": "SAPS 540",
+			"Description": "Application for Authorization to Possess more than 200 rounds of ammunition",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/38.%20SAPS%20540/e540.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/38.%20SAPS%20540/ei540.pdf"
+		},
+		{
+			"Code": "SAPS 521",
+			"Description": "Notification of Lost or Stolen Licences, Permits, Certificates and Authorizations",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/39.%20SAPS%20521/e521.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/39.%20SAPS%20521/ei521.pdf"
+		},
+		{
+			"Code": "SAPS 521(a)",
+			"Description": "Notification of Ceasing to Carry on Business",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/40.%20SAPS%20521(a)/e521a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/40.%20SAPS%20521(a)/ei521a.pdf"
+		},
+		{
+			"Code": "SAPS 521(b)",
+			"Description": "Notification of Change of Address",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/41.%20SAPS%20521(b)/e521b.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/41.%20SAPS%20521(b)/ei521b.pdf"
+		},
+		{
+			"Code": "SAPS 521(c)",
+			"Description": "Notification of Change in Circumstances",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/42.%20SAPS%20521(c)/e521c.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/42.%20SAPS%20521(c)/ei521c.pdf"
+		},
+		{
+			"Code": "SAPS 521(d)",
+			"Description": "Notification of Change of Commercial Agent Premises",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/43.%20SAPS%20521(d)/e521d.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/43.%20SAPS%20521(d)/ei521d.pdf"
+		},
+		{
+			"Code": "SAPS 521(e)",
+			"Description": "Notification on Assignment of New Responsible Person for Juristic Person",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/44.%20SAPS%20521(e)/e521e.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/44.%20SAPS%20521(e)/ei521e.pdf"
+		},
+		{
+			"Code": "SAPS 521(f)",
+			"Description": "Notification of Lost/Stolen/Found Firearms",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/45.%20SAPS%20521(f)/e521f.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/45.%20SAPS%20521(f)/ei521f.pdf"
+		},
+		{
+			"Code": "SAPS 521(g)",
+			"Description": "Notification of Incorrect Information",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/46.%20SAPS%20521(g)/e521g.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/46.%20SAPS%20521(g)/ei521g.pdf"
+		},
+		{
+			"Code": "SAPS 521(h)",
+			"Description": "Notification of Requirement to Deactivate a Firearm",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/47.%20SAPS%20521(h)/e521h.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/47.%20SAPS%20521(h)/ei521h.pdf"
+		},
+		{
+			"Code": "SAPS 530",
+			"Description": "Notice of Appeal",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/48.%20SAPS%20530/e530.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/48.%20SAPS%20530/ei530.pdf"
+		},
+		{
+			"Code": "SAPS 350(a)",
+			"Description": "Dealer’s Return: Stock Received",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/49.%20SAPS%20350(a)/e350a.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/49.%20SAPS%20350(a)/ei350a.pdf"
+		},
+		{
+			"Code": "SAPS 350(b)",
+			"Description": "Dealer’s Return: Stock Supplied",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/50.%20SAPS%20350(b)/e350b.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/50.%20SAPS%20350(b)/ei350b.pdf"
+		},
+		{
+			"Code": "SAPS 350(c)",
+			"Description": "Manufacturer’s Return: Stock Manufactured",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/51.%20SAPS%20350(c)/e350c.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/51.%20SAPS%20350(c)/ei350c.pdf"
+		},
+		{
+			"Code": "SAPS 350(d)",
+			"Description": "Manufacturer’s Return: Stock Supplied",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/52.%20SAPS%20350(d)/e350d.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/52.%20SAPS%20350(d)/ei350d.pdf"
+		},
+		{
+			"Code": "SAPS 350(e)",
+			"Description": "Gunsmith’s Return: Stock Received",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/53.%20SAPS%20350(e)/e350e.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/53.%20SAPS%20350(e)/ei350e.pdf"
+		},
+		{
+			"Code": "SAPS 350(f)",
+			"Description": "Gunsmith’s Return: Stock Supplied",
+			"Url": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/54.%20SAPS%20350(f)/e350f.pdf",
+			"iUrl": "https://github.com/wtssdevs/ArmsAndWildLife_docs/raw/main/Docs/saps/5.3.1.%20SAPS%20Forms/54.%20SAPS%20350(f)/ei350f.pdf"
+		}
+	]
 }
